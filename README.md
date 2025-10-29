@@ -18,7 +18,8 @@
 
 
 ### Check me out here:
-  [![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Flinkedin&psig=AOvVaw0o0LoPeCCc9NuJYTOIFGBz&ust=1761815896453000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPC1z-SJyZADFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/tharunkumarneelam/)&nbsp;
+  [![LinkedIn](<img width="740" height="722" alt="image" src="https://github.com/user-attachments/assets/7297e27b-e73d-4f00-aaa7-f23c7fad6221" />
+)](https://www.linkedin.com/in/tharunkumarneelam/)&nbsp;
   [![LeetCode](https://img.shields.io/badge/LeetCode-%23E4405F.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/tharunkumar003/)&nbsp;
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tharun.kumar.003/)&nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunkumarneelam@gmail.com)&nbsp;
