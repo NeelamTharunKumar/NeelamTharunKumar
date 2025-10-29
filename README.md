@@ -8,7 +8,6 @@
 - 📛 My name is **Neelam Tharun Kumar**  
 - 🎓 I'm a **Final Year** student at **NIT Silchar**  
 - 🖥️ Pursuing **Computer Science and Engineering**  
-- 💡 Passionate about full-stack development, open-source contributions, and system design  
 - 🛠️ Tech I enjoy working with: **C/C++, JavaScript, MySQL, Git, GitHub**  
 - 🔍 Currently exploring: **Backend Development**, **AI**  
 - 🌱 Learning new tools, building cool stuff, and always improving  
